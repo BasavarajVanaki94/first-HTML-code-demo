@@ -6,8 +6,10 @@ my first html code
   
 </head>
 <body>
-  <h1>HELLO WORLD</h1>
+  <h1>HELLO WORLD </h1>
   <h2> HELLO WORLD</h2>
+  <h3> HELLO WORLD</h3>
+
 </body>
 
 
