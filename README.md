@@ -1,15 +1,10 @@
-# my first-HTML-code-demo
+# My first-HTML-code-demo
 my first html code
 <html>
 <head>
-  <title>My first html code</title>
-  
 </head>
 <body>
+<p>This is my first html code </p>
   <h1>HELLO WORLD </h1>
-  <h2> HELLO WORLD</h2>
-  <h3>hello world sun</h3>
-  <h4>Hello world </h4>
-  <h4>hello world</h4>
 </body>
 </html>
