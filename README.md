@@ -1,5 +1,4 @@
-# My first-HTML-code-demo
-my first html code
+# HTML-code-demo
 <html>
 <head>
 </head>
